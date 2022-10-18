@@ -80,7 +80,7 @@ public class SortArrays {
     }
 
     public static void main(String[] args) {
-//        sortArr();
+        sortArr();
         int nrV[] = {55, 88, 79, 10, 25, 23, 25, 55};
         checkNo(nrV, 5); //false
         System.out.println(checkNo1(nrV, 5));  //false
